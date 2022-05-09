@@ -1,0 +1,24 @@
+/* Imports
+-------------------------------------------------------------- */
+
+// Foundations
+//@use 'foundations/fonts/font-face';
+@use 'foundations/variables/variables';
+@use 'foundations/reset/reset';
+@use 'foundations/typography/typography';
+@use 'foundations/layout/layout';
+@use 'foundations/spacing/spacing';
+
+// Global
+@use 'global/global';
+
+// Venders
+// Components
+@use 'components/buttons/buttons';
+// Page templates
+// Template parts
+// Posts
+@use 'posts/single';
+
+// Blocks
+@use 'core-blocks/core-blocks';
