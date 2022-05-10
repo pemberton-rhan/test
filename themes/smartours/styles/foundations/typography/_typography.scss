@@ -1,0 +1,54 @@
+/* Variables
+-------------------------------------------------------------- */
+
+/* Typography Styles
+-------------------------------------------------------------- */
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 2rem;
+  padding: 100px;
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3,
+h4 {
+}
+
+p {
+}
+
+a {
+  &:hover {
+  }
+}
+
+ul,
+ol {
+  li {
+    &::marker {
+    }
+    ul,
+    ol {
+    }
+  }
+}
+
+strong {
+}
+
+mark {
+}
+
+.has-drop-cap {
+  &::first-letter {
+  }
+}
